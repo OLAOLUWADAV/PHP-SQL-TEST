@@ -1,0 +1,22 @@
+QUESTION1
+UPDATE employees SET Ethnicity = 'African' WHERE Ethnicity = 'Black';
+
+QUESTION 2
+DELETE FROM employees WHERE employee_id IN ('E02002', 'E02005', 'E02006', 'E02007');
+
+
+QUESTION 3 
+SELECT * FROM employees WHERE Gender = 'Female' AND Ethnicity = 'Asian' ORDER BY employee_id DESC;
+
+
+QUESTION 4 
+UPDATE employees SET Job_Title = 'Sr. Manager' WHERE employee_id = 'E02008';
+
+
+QUESTION 5
+SELECT * FROM employees WHERE age > 60;
+
+
+QUESTION 6
+SELECT * FROM employees WHERE Department IN ('IT', 'Marketing', 'Engineering') ORDER BY employee_id ASC;
+

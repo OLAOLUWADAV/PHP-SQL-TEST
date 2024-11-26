@@ -1,0 +1,20 @@
+ QUESTION 1
+  Structured Query Language
+
+  QUESTION 2
+1. Boolean: This involves the concept of True and False in a statement
+2. Text: 
+3. String: This involves various of write up in Alphabet Characters often placed in a or identified with a coat "",'' 
+4. Decimal: This includes Number from 0-9 
+
+QUESTION 3 
+ 1. SUM(): This Aggregate function is used to evaluate the total estimate by addition (+)
+ 2. SUBTRACT(): This Aggregate function is used to take of out the estimate in a database 
+ 3. Max(): This Aggregate Function is used to get the highest number of a value in a database 
+
+ QUESTION 4
+ 1. Data Control Language:
+  Data Control language this can be referred to as some set of query which are written to set a specific structure to the database E.G. INSERT, DELETE 
+ 2. Data Query Language: 
+  These are set of commands that are written to get a specific information or response from the database E.G. WHERE, FIND
+ 3. Data Transition Language 
